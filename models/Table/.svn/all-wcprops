@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7908/cfmi/omeka2/trunk/plugins/CategoryTree/models/Table
+END
+CategoryRelation.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4680/cfmi/omeka2/trunk/plugins/CategoryTree/models/Table/CategoryRelation.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7908/cfmi/omeka2/trunk/plugins/CategoryTree/models/Table/Category.php
+END
