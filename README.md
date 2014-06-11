@@ -1,7 +1,7 @@
 Omeka2-Plugin-CategoryTree
 ==========================
 
-Allows users to categorize their items into multiple hierarchial categories.  This plugin has been tested with Omeka 2.1.  
+Allows users to categorize their items into multiple hierarchial categories.  This plugin has been tested with Omeka 2.1.   It uses the dynatree javascript library for the tree structure. 
 
 First, configure the plugin to add the top level categories.  Right click the category to add a sub category, or edit/delete the current category.
 
